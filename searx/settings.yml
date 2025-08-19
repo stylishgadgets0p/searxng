@@ -72,6 +72,7 @@ search:
     cf_SearxEngineAccessDenied: 86400
     # ReCAPTCHA
     recaptcha_SearxEngineCaptcha: 604800
+    safesearch_force: false
 
   # remove format to deny access, use lower case.
   # formats: [html, csv, json, rss]
